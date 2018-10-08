@@ -4,7 +4,7 @@
  *
  *
 */
-
+//github testi, 2 versio.
 #include "string.h"
 
 int my_strlen(char *s)
